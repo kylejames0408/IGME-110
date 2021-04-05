@@ -10,4 +10,4 @@ The class that this repository represents showcases some early web development s
 **LAST CONTENT UPDATE:** 14-November-2019
 
 # Important External Links
-- https://people.rit.edu/kcj7751/110/ | This is a public link to the live version of the website created in class showcasing all of the web development and media work. It acts as a directory linking to other projects completed during the class.
+- https://people.rit.edu/kcj7751/110/ | This is a public link to the live version of the website created in class showcasing all web development and media work. It acts as a directory linking to other projects completed during the class.
