@@ -1,0 +1,29 @@
+h4 {
+	font-style: italic;
+	color: green;
+}
+
+body {
+	background-image: url("sailboat1.jpg");
+	background-repeat: repeat-y;
+	margin-left: 10%;
+}
+
+.verseHead {
+	font-weight: bold;
+	color: blue;
+}
+
+.ocean {
+	font-weight: bold;
+	color: blue;
+}
+
+.beach {
+	background-color: blue;
+	color: yellow;
+}
+
+.yellowBack {
+	background-color: yellow;
+}

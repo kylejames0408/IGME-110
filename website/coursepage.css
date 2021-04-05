@@ -1,0 +1,28 @@
+body {
+	background-image:url(greenBall.gif);
+	background-repeat:repeat-x;
+}
+
+a {
+	color:black;
+	font-size:200%;
+}
+
+a:hover {
+	color:blue;
+}
+
+#links {
+	background-color:green;
+	color:white;
+	width:50%;
+	border-radius:6em;
+	font-size:3em;
+	padding:.5em;
+}
+
+.hrefs {
+	margin:2em;
+	border:.5em black dotted;
+	width:50%;
+}

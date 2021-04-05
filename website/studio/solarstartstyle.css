@@ -1,0 +1,19 @@
+#header {
+	color: blue;
+	text-align: center;
+	background-image: url("solarsystem.jpg");
+	background-repeat: repeat-x;
+	font-weight: bold;
+}
+
+body {
+	color: #000033;
+}
+
+li {
+	list-style: none;
+}
+
+.first {
+	font-size: 200%;
+}
